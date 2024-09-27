@@ -1,0 +1,6 @@
+framework module UBiXMBLKAdapter {
+  umbrella header "UBiXMBLKAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
