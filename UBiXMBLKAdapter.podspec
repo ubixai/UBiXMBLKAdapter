@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   
  s.dependency 'CXHAdSDK/RC', '1.5.5'
  s.dependency 'CXHAdSDK/ChannelNoWechat','1.5.5'
- s.dependency 'UBiXMediationSDK
+ s.dependency 'UBiXMediationSDK'
  s.swift_version = '5.0'
 
    
