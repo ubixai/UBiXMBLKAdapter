@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UBiXMBLKAdapter'
-  s.version          = '1.5.5.2'
+  s.version          = '1.6.6.3.0'
   s.summary          = 'UBiX聚合广告变现SDK BLK Adapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   # s.license          = { :type => 'MIT', :file => 'LICENSE' }
@@ -17,8 +17,8 @@ Pod::Spec.new do |s|
     'OTHER_LINK_FLAG' => '$(inherited) -ObjC' }
  
   
- s.dependency 'CXHAdSDK/RC', '1.5.5'
- s.dependency 'CXHAdSDK/ChannelNoWechat','1.5.5'
+ s.dependency 'CXHAdSDK/RC', '1.6.6.3'
+ s.dependency 'CXHAdSDK/ChannelNoWechat','1.6.6.3'
  s.dependency 'UBiXMediationSDK'
  s.swift_version = '5.0'
 
